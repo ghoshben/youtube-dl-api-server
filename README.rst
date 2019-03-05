@@ -1,4 +1,8 @@
 youtube-dl-api-server
+
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 =====================
 
 A REST API server for getting the info for videos from different sites, powered by `youtube-dl <http://rg3.github.io/youtube-dl/>`_.
@@ -8,6 +12,3 @@ About
 -----
 
 ``youtube-dl-api-server`` is released to the public domain, read the `license <LICENSE>`_ for more info.
-<a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
